@@ -1,0 +1,1 @@
+web: gunicorn allauth_example.wsgi --log-file -
